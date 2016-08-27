@@ -1,11 +1,11 @@
-# simple-switch
+# Simple-switch
 A simple switch jQuery plugin to beautify your checkbox
 
 Support swipping left / right
 
 ![Demo](http://7xsj8c.com2.z0.glb.clouddn.com/img/20160330111443.png) 
 
-##how to use it?
+#How to use
 ```
 <link rel="stylesheet" href="simple-switch.min.css" />
 <script src="your path/jquery.js"></script>
@@ -14,13 +14,13 @@ Support swipping left / right
 ```javascript
 $("yourcheckbox").simpleSwitch();
 ```
-#Resetting and Toggling Switch
+##Resetting and Toggling Switch
 
-#Reset
+##Reset
 ```javascript
 $("yourcheckbox").switchReset();
 ```
-#Toggle
+##Toggle
 ```javascript
 $("yourcheckbox").switchToggle();
 ```
