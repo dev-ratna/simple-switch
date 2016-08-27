@@ -14,7 +14,18 @@ Support swipping left / right
 ```javascript
 $("yourcheckbox").simpleSwitch();
 ```
+#Resetting and Toggling Switch
+
+#Reset
+```javascript
+$("yourcheckbox").switchReset();
+```
+#Toggle
+```javascript
+$("yourcheckbox").switchToggle();
+```
 check the demo.html example.
+
 
 or
 
